@@ -1,7 +1,7 @@
 const cart = [
   {
     id: 1,
-    img: "macbook.jpg",
+    img: "Note.jpg",
     title: "Aplle MacBook Air 13",
     count: 1,
     price: 1100,
@@ -10,7 +10,7 @@ const cart = [
 
   {
     id: 2,
-    img: "apple-watch.jpg",
+    img: "watch.jpg",
     title: "Apple Watch",
     count: 1,
     price: 1100,
@@ -18,7 +18,7 @@ const cart = [
   },
   {
     id: 3,
-    img: "mac-pro.jpg",
+    img: "music.jpg",
     title: "Mac Pro",
     count: 1,
     price: 1100,
